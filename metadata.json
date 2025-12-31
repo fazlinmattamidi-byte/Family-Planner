@@ -1,0 +1,8 @@
+
+{
+  "name": "Family Brain - The Ultimate Planner",
+  "description": "A cute, interactive family coordinator to manage school events, clinic appointments, tuition, and bills with AI-powered morning summaries.",
+  "requestFramePermissions": [
+    "notifications"
+  ]
+}
